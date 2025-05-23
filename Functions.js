@@ -76,7 +76,7 @@ console.log(greet("Eric"));
 // Тоо хүлээн авч 5-аар үржүүлсэн тоог буцаадаг multiplyFive функцийг тодорхойлно уу.
 
 var multiplyFive = function (number) {
-  return number * 5;
+  return number * 5;  
 };
 console.log(multiplyFive(3));
 console.log(multiplyFive(4));
